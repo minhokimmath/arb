@@ -1,4 +1,4 @@
-from api.bybit_api import BybitAPI
+from ..api.bybit_api import BybitAPI
 from config import TRADE_SETTINGS
 import time
 
